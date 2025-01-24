@@ -1,0 +1,7 @@
+.pf-c-button {
+    border-radius: 5px;
+}
+
+.pf-m-primary {
+    background-color: var(--lightgreen) !important;
+}
