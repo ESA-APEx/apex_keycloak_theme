@@ -1,0 +1,17 @@
+#kc-terms-text {
+    overflow: auto;
+    max-height: 50vh;
+    margin-bottom: 2rem;
+}
+
+#kc-terms-text ul, #kc-terms-text ol {
+    margin: 0.5rem 1.5rem;
+}
+
+#kc-terms-text ul {
+    list-style: circle;
+}
+
+#kc-terms-text li {
+    margin: 0.5rem 0;
+}

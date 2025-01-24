@@ -1,0 +1,19 @@
+
+
+p, li {
+    color: inherit !important
+}
+
+
+table {
+    margin-bottom: 1rem;
+}
+th {
+    padding: 0 1rem;
+}
+
+th, td {
+    vertical-align: top;
+    padding-top: 1rem;
+}
+
