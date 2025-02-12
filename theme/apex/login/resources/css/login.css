@@ -22,3 +22,22 @@ body, html {
     border-radius: var(--border-radius);
 }
 
+#kc-social-providers {
+    h2 {
+        font-size: medium;
+    }
+
+    .kc-social-links {
+        flex-direction: column;
+        gap: .5rem;
+
+        .kc-social-item {
+            background-color: var(--lightgreen);
+            color: var(--white);
+            font-size: 14px;
+        }
+        .kc-social-item:after {
+            display: none;
+        }
+    }
+}
